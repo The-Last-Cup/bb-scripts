@@ -15,3 +15,10 @@ export function ownSF(ns,n,lvl) {
 	}
 	return false;
 }
+
+
+
+
+
+
+
