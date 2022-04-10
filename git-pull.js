@@ -1,4 +1,4 @@
-//COPIED FROM https://github.com/alainbryden/bitburner-scripts/blob/main/git-pull.js
+//COPIED FROM https://github.com/alainbryden/bitburner-scripts/blob/main/git-pull.js. All credit to this user.
 let options;
 const argsSchema = [
     ['github', 'The-Last-Cup'],
